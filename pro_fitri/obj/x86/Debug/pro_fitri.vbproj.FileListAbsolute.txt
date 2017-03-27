@@ -1,0 +1,10 @@
+E:\lww\pro_fitri\pro_fitri\bin\Debug\pro_fitri.exe
+E:\lww\pro_fitri\pro_fitri\bin\Debug\pro_fitri.pdb
+E:\lww\pro_fitri\pro_fitri\bin\Debug\pro_fitri.xml
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.Form1.resources
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.Form2.resources
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.Resources.resources
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.vbproj.GenerateResource.Cache
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.exe
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.xml
+E:\lww\pro_fitri\pro_fitri\obj\x86\Debug\pro_fitri.pdb
